@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.chai{
+  border: 1px solid black;
+}
+
+.boor{
+  min-width: 50px;
+}
+.div1{
+  display: flex;
+
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+}
+  
+.card {
+  text-transform: uppercase;
+  color: #f7f6f6;
+  background: #72ade9;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 150px;
+  font-size: 18px;
+  font-weight: bold;
+}

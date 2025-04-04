@@ -1,8 +1,8 @@
 function Chai() {
     return(
-        <div className="container">
+        <div className="chai">
             <div className="row">
-                <div className="col-md-4">
+                <div>
                     <h1>
                         hello everyone code with react
                     </h1>
